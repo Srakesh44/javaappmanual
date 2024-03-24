@@ -6,5 +6,6 @@
 	
 	<h1>This is Home Page</h1>
 	<a href="about.jsp">Redirect to about page</a>
+	<p>This a paragraph line added for initial commit</p>
 </body>
 </html>
